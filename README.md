@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @robinsadeghpour
 - 👀 I’m interested in Web-Development
 - 🌱 I’m currently learning .NET Framework
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/robin-sadeghpour-faraj-204196230/) 
+- 🤔 I’m on [LinkedIn](https://www.linkedin.com/in/robin-sadeghpour-faraj-204196230/)
+- 📫 How to reach me: r.sadegh.f@gmail.com
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I am a Gymrat 🏋️‍♂️
