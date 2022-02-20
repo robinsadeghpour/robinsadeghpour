@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning .NET Framework
 - 🤔 I’m on [LinkedIn](https://www.linkedin.com/in/robin-sadeghpour-faraj-204196230/)
 - 📫 How to reach me: r.sadegh.f@gmail.com
-- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am a Gymrat 🏋️‍♂️
