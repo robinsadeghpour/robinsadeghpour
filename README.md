@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robinsadeghpour
 - 👀 I’m interested in Web-Development
-- 🌱 I’m currently learning .NET Framework
+- 🌱 I’m a Fullstack Engineer working with Spring Boot, NestJS and React.
 - 🤔 I’m on [LinkedIn](https://www.linkedin.com/in/robin-sadeghpour-faraj-204196230/)
 - 📫 How to reach me: r.sadegh.f@gmail.com
 - ⚡ Fun fact: I am a Gymrat 🏋️‍♂️
